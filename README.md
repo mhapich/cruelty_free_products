@@ -7,14 +7,20 @@ Things that still need done:
 - merge dataframes on companies (not consistent so will need some work) - DONE!
 - make dashboard with Dash (or maybe Streamlit) to help people find specific brands and where to purchase them
 
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 Used the contact form (6/6/22) on Logical Harmony to send this:
